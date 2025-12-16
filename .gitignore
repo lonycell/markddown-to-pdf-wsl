@@ -1,2 +1,4 @@
 doc/*
 output/*
+
+!doc/help
