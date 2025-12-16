@@ -1,0 +1,15 @@
+# 마크다운 → PPT/PDF 변환에 필요한 Python 패키지
+
+# PowerPoint 생성
+python-pptx>=0.6.21
+
+# PDF 생성 (대안)
+reportlab>=4.0.0
+markdown>=3.4.0
+
+# PDF 병합
+pypdf>=3.0.0
+
+# Mermaid 렌더링 (선택사항)
+playwright>=1.40.0
+
